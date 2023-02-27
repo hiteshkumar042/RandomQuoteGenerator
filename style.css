@@ -1,0 +1,44 @@
+.custom-bg {
+  background-color: #06bcc1;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 95%;
+  height: 80vh;
+}
+
+.quotes {
+  width: 900px;
+  height: 450px;
+  margin: auto;
+  border: 12px solid burlywood;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  background-color: antiquewhite;
+}
+
+h4 {
+  text-align: center;
+  margin-top: 15rem;
+  font-style: italic;
+}
+p {
+  text-align: center;
+  font-size: 1.5em;
+}
+.heading {
+  text-align: center;
+  margin-top: 53px;
+  font-family: "Brush Script MT";
+  text-decoration: underline;
+}
+#cstbtn {
+  display: block;
+  margin: 0 auto;
+}
