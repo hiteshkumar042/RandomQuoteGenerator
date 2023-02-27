@@ -6,4 +6,4 @@ The Random Quote Generator is a web application that generates a new random quot
 The webpage displays a simple interface with a space to display the quote, the author, and a "Generate Quote" button. The application uses an array of quotes, each formatted as a JavaScript object with a text property and an author property.
 
 You can access the project by clicking on the link below:
-https://hiteshkumar042.github.io/WebPageColorChanger/
+https://hiteshkumar042.github.io/RandomQuoteGenerator/
